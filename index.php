@@ -5,7 +5,7 @@
         <title>Progetto di Amministrazione di Sistema 2015</title>
     </head>
     <body>
-        <h1>Accesso al progetto di Amministrazione di Sistema di Marco Guria</h1>
+        <h1>Accesso al progetto di Amministrazione di Sistema</h1>
         <p>
         La homepage del progetto si trova sulla URL <a href="progetto-amm-2015/laboutiquedellamusica/php/login">La Boutique della Musica</a>
         </p>
